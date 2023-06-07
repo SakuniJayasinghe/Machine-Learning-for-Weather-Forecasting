@@ -1,0 +1,30 @@
+{
+    "team": [
+        {
+            "name": "Nimnadi J. A. S.",
+            "email": "e18242@eng.pdn.ac.lk",
+            "eNumber": "E/18/242"
+        },
+        {
+            "name": "Uduwanage H. U.",
+            "email": "e18368@eng.pdn.ac.lk",
+            "eNumber": "E/18/368"
+        },
+        {
+            "name": "Wijerathne R. M. N. S.",
+            "email": "e18398@eng.pdn.ac.lk",
+            "eNumber": "E/18/398"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Panduka Neluwala",
+            "email": "pandukaneluwala@eng.pdn.ac.lk"
+        },
+        {
+            "name": "Dr. Damayanthi Herath",
+            "email": "damayanthiherath@eng.pdn.ac.lk"
+        }
+    ],
+    "tags": []
+}
